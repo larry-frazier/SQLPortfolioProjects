@@ -1,7 +1,7 @@
 /*
 Fictional Ecommerce Marketing data
 
-Skills used: Window Functions, Aggregate functions, Joins
+Skills used: CTEs, Aggregate functions, Joins
 */
 
 
